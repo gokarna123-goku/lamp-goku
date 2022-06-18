@@ -1,0 +1,16 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    background-image: linear-gradient(to right, #120a1e , #322630, #514141, #856b5c);
+}
+
+.btn{
+    border-radius: 2px;
+    font-weight: 500;
+    font-size: 1.13rem;
+}
